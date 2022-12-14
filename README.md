@@ -6,5 +6,6 @@ This repo houses the Terminus Toolbox software. The Terminus Toolbox is meant to
 ### Usage
 
 ```
-terminus toolbox create-lapp my_project --backend polar --language <JS | RS | GO>
+terminus create ln-app my-ln-app
+terminus create full-node
 ```
